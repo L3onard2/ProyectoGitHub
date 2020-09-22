@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProyectoGitHub</string>
+    <string name="contexto">App de delivery donde puedan pedir productos, ver valores, total a pagar y a demas arroje a traves de google maps la direccion, donde tendra una pantalla de login, menu, pago y mapa></string>
+</resources>
